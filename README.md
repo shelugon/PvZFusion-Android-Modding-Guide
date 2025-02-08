@@ -1,4 +1,4 @@
-# PvZ Fusion English Android
+# PvZ Fusion Modding Guide
 - **Game APK (2.2.1 Chinese New Year Update)**  
   - [Download the game APK here](https://mega.nz/folder/LUp2Ba7Q#ev_2Q8fdnHsQKQCXDLdq0Q)
 - **Chinese global-metadata**
