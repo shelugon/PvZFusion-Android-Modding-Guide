@@ -211,7 +211,8 @@ When the game is compiled with **Il2Cpp**, the **MonoBehaviour** data is compres
    - The strings start appearing further down in the file.  
      ![This is where the strings are](https://i.imgur.com/AQ1RjXd.png)
   
-   - **Warning**: MetaDataStringEditor can only handle Mandarin (Chinese) strings well. After making changes, saving, and reopening the file, you'll see strange text. However, you can still edit them normally if you know what each text represents.  
+   - **Warning**: MetaDataStringEditor can only handle Mandarin (Chinese) strings well. After making changes, saving, and reopening the file, you'll see strange text. However, you can still edit them normally if you know what each text represents; Whenever there 
+        is a line break command like \n, manually insert a line break.  
      ![Buggy texts](https://i.imgur.com/IAXH0Xk.png)
 
 </details>
