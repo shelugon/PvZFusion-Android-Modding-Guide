@@ -10,7 +10,7 @@
 - **UABEA**  
 - **APK Easy Tool** (or any tool for decompiling, recompiling, and signing APKs)
 - **MetaDataStringEditor**
-- **Visual Studio Code or NotePad+++**
+- **Visual Studio Code or NotePad++**
 
 ---
 
@@ -38,7 +38,7 @@
    <sub>(Click the thumbnail to watch the video)</sub>
 
 5. **Install the APK**:
-   - After recompiling and signing the APK, you can install it directly on your Android device using the "Install Apk" tool with the device's charging cable connected to the PC for data transfer. 
+   - After recompiling and signing the APK, you can install it directly on your Android device using the "Install Apk". 
      (make sure "USB debugging" is enabled on your device).
    - You can also use emulators like **MemuPlay**, **BlueStacks**, or **LDPlayer**.
 
